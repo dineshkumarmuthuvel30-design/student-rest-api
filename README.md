@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Student REST API
 
 A beginner-friendly Spring Boot REST API using Java 17 and Maven. It stores data in memory, so data resets when the app restarts.
@@ -44,3 +45,7 @@ Use `PUT http://localhost:8080/students/1` with:
 ```
 
 Note: This is a learning example, not production-ready. It does not use a database.
+=======
+# student-rest-api
+student-rest-api
+>>>>>>> 04fce692cd0f3f14ebb64844b770534f669b2c6c
